@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Architecture</name>
+   <tag></tag>
+   <elementGuidId>56764355-6baa-4583-8abc-e9e3a2e7a69b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-first.even-row-color.class-summary.class-summary-tab3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='class-summary.tabpanel']/div/div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Architecture$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4aa5146-0140-4a48-bb26-caa8c236307d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-first even-row-color class-summary class-summary-tab3</value>
+      <webElementGuid>50167279-89ee-4fbb-932a-f3d878547f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Architecture</value>
+      <webElementGuid>c25189c9-4c94-420c-aee1-3a29a65e43e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;class-summary.tabpanel&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-first even-row-color class-summary class-summary-tab3&quot;]</value>
+      <webElementGuid>11d56e38-8172-45de-9977-c7e285413b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Overview/a_org.openqa.selenium</value>
+      <webElementGuid>95b953d4-2252-45c8-b2c5-0cba227223a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='class-summary.tabpanel']/div/div[7]</value>
+      <webElementGuid>40cd62ac-60a4-4bcb-b45d-9322caff1453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alert'])[1]/following::div[2]</value>
+      <webElementGuid>cc4deb73-4982-456e-83fd-6e01aefd91a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AcceptedW3CCapabilityKeys'])[1]/following::div[4]</value>
+      <webElementGuid>edfafba8-220f-4bc6-ba8b-ad440d7dffc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Represents the known architectures used in WebDriver.'])[1]/preceding::div[1]</value>
+      <webElementGuid>b5be97f5-50a8-4e43-8cbb-4d023044a592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>392db071-3970-4ec4-b288-85c604318b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Architecture' or . = 'Architecture')]</value>
+      <webElementGuid>0cdef0ae-8fbe-41cd-8e1d-c8a62ae90783</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

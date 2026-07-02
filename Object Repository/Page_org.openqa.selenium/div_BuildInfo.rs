@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BuildInfo</name>
+   <tag></tag>
+   <elementGuidId>6e78268f-11a8-4485-bd1a-e8344cfea56b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='class-summary.tabpanel']/div/div[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^BuildInfo$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3e678e3-b6d2-442f-8dda-b354daf17f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-first even-row-color class-summary class-summary-tab2</value>
+      <webElementGuid>e328e177-06f0-4d2a-8034-fdbd929098e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BuildInfo</value>
+      <webElementGuid>42439219-4d44-44bf-8302-3f2c5c3ac4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;class-summary.tabpanel&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-first even-row-color class-summary class-summary-tab2&quot;]</value>
+      <webElementGuid>04472d2e-3ac2-4403-b75d-85310612c3e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='class-summary.tabpanel']/div/div[11]</value>
+      <webElementGuid>93da3f92-402f-46d9-9cff-7ce671bb12b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indicates that a feature or API is in active development, and so should not be relied upon.'])[1]/following::div[1]</value>
+      <webElementGuid>147a582f-8dc9-4be2-ba49-767ee5fbc813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beta'])[1]/following::div[3]</value>
+      <webElementGuid>6b2384ba-c920-4270-8aa9-6b77027bd32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reads information about how the current application was built.'])[1]/preceding::div[1]</value>
+      <webElementGuid>c4d9068d-e291-4bc1-a8e2-c02ea6423844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]</value>
+      <webElementGuid>860bed77-0919-41cd-a54d-547747785b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BuildInfo' or . = 'BuildInfo')]</value>
+      <webElementGuid>64d885aa-2a42-424a-b682-15c690a1fda3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
