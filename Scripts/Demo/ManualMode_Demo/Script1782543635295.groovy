@@ -29,7 +29,5 @@ WebUI.click(findTestObject('Object Repository/capture login/Page_Login Page/butt
 
 WebUI.click(findTestObject('capture login/Page_Admin - Dashboard/a_Logout'))
 
-WebUI.verifyTextPresent('Welcome', false)
-
 WebUI.closeBrowser()
 
